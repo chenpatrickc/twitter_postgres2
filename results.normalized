@@ -4,6 +4,6 @@ sql.normalized/03.sql pass
 sql.normalized/04.sql pass
 sql.normalized/05.sql pass
 
-real	0m2.992s
-user	0m0.589s
-sys	0m0.454s
+real	0m1.579s
+user	0m0.547s
+sys	0m0.394s
